@@ -62,66 +62,43 @@ Firebase Firestore
         ↓
 Firebase Cloud Functions (optional)
 
-Application Modules
+- Application Modules:
 
 User authentication and role validation
-
 Role-based UI rendering
-
 Security personnel management (CRUD)
-
 Emergency alert system (shake detection)
-
 GPS location tracking and sharing
-
 Incident and complaint reporting
-
 Community announcements and notifications
 
-Technologies Used
-Frontend
-
+- Technologies Used
+Frontend:
 Flutter
-
 Dart
-
 Material UI
-
 Device sensors (accelerometer)
-
 GPS / Location services
 
-Backend & Services
-
+Backend & Services:
 Firebase Authentication
-
 Firebase Firestore
-
 Firebase Security Rules
-
 Firebase Cloud Messaging (notifications)
-
 Security Model
 
 The application implements RBAC (Role-Based Access Control) to ensure that:
 
 Users can only perform actions permitted by their role
-
 Sensitive operations are restricted to authorized roles
-
 Emergency alerts and location data are securely handled
-
 Data access is validated both at UI and backend levels
 
-Purpose of the Project
-
+Purpose of the Project:
 Practice secure mobile application development
-
 Implement real-time emergency systems
-
 Apply RBAC and hierarchical authorization
-
 Develop scalable and maintainable Flutter applications
-
 Strengthen skills in Firebase-based architectures
+
 
