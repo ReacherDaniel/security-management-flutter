@@ -62,7 +62,7 @@ Firebase Firestore
         ↓
 Firebase Cloud Functions (optional)
 
-🧩 Application Modules
+Application Modules
 
 User authentication and role validation
 
@@ -78,7 +78,7 @@ Incident and complaint reporting
 
 Community announcements and notifications
 
-🚀 Technologies Used
+Technologies Used
 Frontend
 
 Flutter
@@ -101,7 +101,7 @@ Firebase Security Rules
 
 Firebase Cloud Messaging (notifications)
 
-🔐 Security Model
+Security Model
 
 The application implements RBAC (Role-Based Access Control) to ensure that:
 
@@ -113,7 +113,7 @@ Emergency alerts and location data are securely handled
 
 Data access is validated both at UI and backend levels
 
-🎯 Purpose of the Project
+Purpose of the Project
 
 Practice secure mobile application development
 
@@ -124,3 +124,4 @@ Apply RBAC and hierarchical authorization
 Develop scalable and maintainable Flutter applications
 
 Strengthen skills in Firebase-based architectures
+
